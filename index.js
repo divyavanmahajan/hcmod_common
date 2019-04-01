@@ -2,7 +2,7 @@
  *
  * common module
  *
- * Copyright 201x, Company Name
+ * Copyright 2019, Divya Mahajan
  * Developer:
  * Release history:
  * dd/mm/yyyy - Change - Author
