@@ -16,6 +16,7 @@ import CardStack from './components/CardStack';
 import CdbTableauReport from './components/CdbTableauReport';
 import GoToTopButton from './components/GoToTopButton';
 import ErrorBoundary from './components/ErrorBoundary';
+import LoginContainer from './containers/LoginContainer';
 
 export {
   CardStack,
@@ -24,5 +25,6 @@ export {
   CdbObservationCard,
   CdbTableauReport,
   GoToTopButton,
+  LoginContainer,
   ErrorBoundary,
 };
