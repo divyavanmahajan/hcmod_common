@@ -17,9 +17,11 @@ import CdbTableauReport from './components/CdbTableauReport';
 import GoToTopButton from './components/GoToTopButton';
 import ErrorBoundary from './components/ErrorBoundary';
 import LoginContainer from './containers/LoginContainer';
+import CdbSpinner from './components/CdbSpinner';
 
 // Exports
 export {
+  CdbSpinner,
   CardStack,
   CdbAdminCard,
   CdbTargetCard,
