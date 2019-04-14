@@ -18,6 +18,7 @@ import GoToTopButton from './components/GoToTopButton';
 import ErrorBoundary from './components/ErrorBoundary';
 import LoginContainer from './containers/LoginContainer';
 import CdbSpinner from './components/CdbSpinner';
+import compareValues from './utils/compareValues';
 
 // Exports
 export {
@@ -30,4 +31,5 @@ export {
   GoToTopButton,
   LoginContainer,
   ErrorBoundary,
+  compareValues,
 };
